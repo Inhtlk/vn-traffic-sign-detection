@@ -76,3 +76,11 @@ Notebook gốc (chạy trên Kaggle, dùng `kaggle_secrets` cho WandB API key) �
 
 Các chỉ số accuracy / macro-F1 (classification) và precision / recall / mAP (detection)
 được in ra console và log lên WandB (nếu bật `--wandb`) khi chạy `main.py`.
+
+## Tác giả
+Nhóm tác giả (Authors)
+Trần Lợi Kiều Nhi — MSSV: SE203044
+Đồng Bảo Hân — MSSV: SE203683
+Phạm Văn Luận — MSSV: SE193479
+
+Đơn vị: Đại học FPT TP.HCM | Ngành Trí tuệ Nhân tạo (AI)
