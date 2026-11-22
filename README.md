@@ -79,10 +79,10 @@ Các chỉ số accuracy / macro-F1 (classification) và precision / recall / mA
 
 ## Nhóm tác giả
 
-Trần Lợi Kiều Nhi — MSSV: SE203044
+Trần Lợi Kiều Nhi - MSSV: SE203044
 
-Đồng Bảo Hân — MSSV: SE203683
+Đồng Bảo Hân - MSSV: SE203683
 
-Phạm Văn Luận — MSSV: SE193479
+Phạm Văn Luận - MSSV: SE193479
 
 Đơn vị: Đại học FPT TP.HCM | Ngành Trí tuệ Nhân tạo (AI)
